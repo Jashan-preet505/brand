@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+
+body{
+    height:100%;
+    width:100%;
+    background-color: azure;
+}
+
+.main{
+    height:300vh;
+    width: 200vw;
+    background-color: lightpink;
+    background-image: "github/R.jfif";
+}
+
+h1{
+    font-family: canopee;
+    font-size: 3vmax;
+    font-weight: 300;
+    color:transparent;
+}
