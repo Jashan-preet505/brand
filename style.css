@@ -1,3 +1,7 @@
+@font-face {
+    font-family: canopee;
+    src:url(/github/canopee.ttf);
+}
 *{
     padding:0;
     margin:0;
@@ -8,18 +12,22 @@ body{
     height:100%;
     width:100%;
     background-color: azure;
+    align-items: center;
+    justify-content: center;
 }
 
 .main{
-    height:300vh;
-    width: 200vw;
-    background-color: lightpink;
-    background-image: "github/R.jfif";
+    height:100%;
+    width: 100%;
+    background-image: "/github/4.webp";
+    align-items: center;
+    justify-content: center;
 }
 
 h1{
     font-family: canopee;
-    font-size: 3vmax;
+    font-size: 6vw;
     font-weight: 300;
-    color:transparent;
+    color:black;
+    text-align: center;
 }
